@@ -1,0 +1,27 @@
+p{
+
+  color:blue;
+}
+
+#box1{
+border: 2px solid red;
+padding: 20px;
+}
+
+#box2{
+border: 1px dashed green;
+text-align:center;
+}
+
+h2#title{
+  color:green;
+}
+
+h2.title{
+  color:green
+}
+
+.item{ }
+li.item{ }
+ul .item{ }
+ul li.item{ }
